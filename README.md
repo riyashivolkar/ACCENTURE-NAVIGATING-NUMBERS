@@ -1,4 +1,4 @@
-# Data Analytics Project - Social Buzz
+# Accenture Data Analytics Project - Social Buzz
 
 ## Project Overview
 This project focuses on applying data analytics and visualization skills to advise a social media client on their content creation strategy. As a Data Analyst at Accenture, the goal is to extract meaningful insights from data and provide strategic recommendations to optimize content performance.
